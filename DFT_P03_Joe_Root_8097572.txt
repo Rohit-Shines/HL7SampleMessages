@@ -1,0 +1,7 @@
+MSH|^~\&|MESA_OP|XYZ_HOSPITAL|iFW|ABC_RADIOLOGY|201504201347|12|DFT^P03|24885|P|2.5
+EVN||20150420134725||
+PID|1|8097572|8097572^^^MIE&1.2.840.114398.1.100&ISO^MR||Joe Root^MICKEY^S||19281118|M|||123 Main St.^^Lake Buena Vista^FL^3283|||||||||||||||||||
+FT1|1|1133||20150325000000||CG|99244|Consultation-Level 4||1|0.000000|||||^^^^OFFICE^^^^Office||BILLING|B69^Cysticercosis^I10~B60.0^Babesiosis^I10|123^Physician^Dr|||1133|1^Adams^Douglas|99244|
+PR1|1|CPT|99244|Consultation-Level 4|20150325000000|||||||123^Physician^Dr|B69^Cysticercosis^I10~B60.0^Babesiosis^I10|
+DG1|1|ICD10|B69^Cysticercosis^I10|Cysticercosis|20150325000000|F|||||||||0|123^Physician^Dr
+DG1|2|ICD10|B60.0^Babesiosis^I10|Babesiosis|20150325000000|F|||||||||0|123^Physician^Dr
