@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|SIU|LAB|202501041030||SIU^S14|2725C6B2|P|2.3|
+PID|1||C7203F8B||Mr. Chad Mccoy||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for SIU
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

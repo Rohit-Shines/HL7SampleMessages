@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|SIU|LAB|202501041030||SIU^S16|39E32A52|P|2.3|
+PID|1||4A7C61BE||Dr. Ryan Hutchinson||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for SIU
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

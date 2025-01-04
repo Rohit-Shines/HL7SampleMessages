@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|SIU|LAB|202501041030||SIU^S14|AD81F7AE|P|2.3|
+PID|1||EB9E7AB6||Amanda Garner||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for SIU
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

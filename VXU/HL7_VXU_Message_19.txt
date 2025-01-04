@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|VXU|LAB|202501041030||VXU^V04|9F8F0C4F|P|2.3|
+PID|1||871D3837||Adam Hall||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for VXU
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

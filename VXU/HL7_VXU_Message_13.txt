@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|VXU|LAB|202501041030||VXU^V03|9E7CC439|P|2.3|
+PID|1||C43549A9||Karen Collins||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for VXU
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

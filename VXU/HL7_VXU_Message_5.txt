@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|VXU|LAB|202501041030||VXU^V05|B52810F0|P|2.3|
+PID|1||74814B07||George Bishop||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for VXU
+DG1|1|ICD10|A01.1|Sample Diagnosis|||
