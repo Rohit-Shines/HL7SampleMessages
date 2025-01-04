@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|BAR|LAB|202501041030||BAR^P03|03E23986|P|2.3|
+PID|1||871930B7||Dr. Laurie Garcia||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for BAR
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

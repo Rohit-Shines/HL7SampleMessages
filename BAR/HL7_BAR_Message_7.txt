@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|BAR|LAB|202501041030||BAR^P02|BB28D7CA|P|2.3|
+PID|1||5795C019||Clayton Lowery||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for BAR
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|DFT|LAB|202501041030||DFT^P05|8662DDCE|P|2.3|
+PID|1||BF56F814||John Warren||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for DFT
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

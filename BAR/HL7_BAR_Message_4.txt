@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|BAR|LAB|202501041030||BAR^P04|118B2C14|P|2.3|
+PID|1||A9F0035C||Bradley Lewis||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for BAR
+DG1|1|ICD10|A01.1|Sample Diagnosis|||
